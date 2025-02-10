@@ -1,6 +1,6 @@
 const assert = require("assert");
 const request = require("supertest");
-const server = require("../main");
+const server = require("../src/main");
 
 describe('Test all / request', function(){
     let mockedApp;
