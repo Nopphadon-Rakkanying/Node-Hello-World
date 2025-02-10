@@ -1,0 +1,8 @@
+node_modules
+.git*
+Dockerfile
+.dockerignore
+docker-compose.yaml
+hello-js.js
+Jenkinsfile
+README.md
